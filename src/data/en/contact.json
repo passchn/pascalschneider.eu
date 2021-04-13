@@ -1,0 +1,24 @@
+{
+    "title": "Contact me",
+    "content": [
+        "You can contact me via email. I am looking forward to your message! "
+    ],
+    "form": {
+        "name": "Name",
+        "email": "Email Address",
+        "phone": "Phone Number",
+        "company": "Company",
+        "random": "Random Inc.",
+        "message": "Message",
+        "placeholder": "Hello Pascal, ... ",
+        "submit": "Submit it!"
+    },
+    "form-messages": {
+        "your-data": "Your data: ",
+        "success": "Thank you! Your Email has been sent to me. ",
+        "error": "There has been an error while sending the data. Please try again or send an email to post (at) pascalschneider (.) eu. \n\n Error message: "
+    },
+    "settings": {
+        "randomuser-nat": "de,dk,gb,nz,us,no"
+    }
+}

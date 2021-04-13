@@ -1,0 +1,56 @@
+[
+    {
+        "y": "2014",
+        "cat": "edu",
+        "txt": "Abitur",
+        "info": "Freiherr vom Stein-Schule Fulda"
+    },
+    {
+        "y": "2014",
+        "cat": "journalism",
+        "txt": "Praktikum FFH",
+        "info": "Lokalreporter im Radio"
+    },
+    {
+        "y": "2014 - 18",
+        "cat": "edu",
+        "txt": "B.A. Soziologie/Politologie",
+        "info": "Goethe-Universität Frankfurt am Main"
+    },
+    {
+        "y": "2015 - 18",
+        "cat": "journalism",
+        "txt": "ARD-aktuell Frankfurt",
+        "info": "Werksstudent / Praktikum"
+    },
+    {
+        "y": "2016 – 2018",
+        "cat": "tech",
+        "txt": "OPTANIUM GmbH Karben",
+        "info": "Werksstudent / Marketingassistent"
+    },
+    {
+        "y": "2018 - 21",
+        "cat": "edu",
+        "txt": "M.Sc. Sustainable Development",
+        "info": "Uppsala Universitet, Schweden"
+    },
+    {
+        "y": "seit 2018",
+        "cat": "tech",
+        "txt": "UMG Dirlos UG",
+        "info": "Entwickler / Marketing für die Plattform tubalernen.de"
+    },
+    {
+        "y": "seit 2018",
+        "cat": "tech",
+        "txt": "OPTANIUM GmbH Karben",
+        "info": "Freier Mitabeiter / Wordpress-Entwickler"
+    },
+    {
+        "y": "2019 – 20",
+        "cat": "journalism",
+        "txt": "ARD-Korrespondenz Stockholm",
+        "info": "Praktikum und freie Mitarbeit als Producer"
+    }
+]

@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Crete+Round&family=Lato&display=swap');
+
+:root {
+    --one : #188C8E;
+    --oneb: #005050;
+    --two: #701B34;
+    --twob: #781D37;
+    --three: #FFD27F;
+    --threeb: #FFEF98;
+}
+
+* {
+    font-family: 'Lato', sans-serif;
+}
+
+body {
+    background-color: #DDD;
+}
+
+.main-content {
+    background-color: #FFF;
+}
+
+h1, h2, h3, b, strong, article a {
+    font-family: 'Crete Round', serif;
+}
+
+article a {
+    color: var(--one); 
+    transition: color 0.2s;
+}
+a:hover {
+    color: var(--oneb);
+    text-decoration: none;
+}
+
+@media only screen and (min-width: 576px) {    
+    h1.bigletters {
+        font-size: 45pt;
+    }
+}
+
+.aside {
+    background-color: #EEE;
+    padding: 22px; 
+}
+.aside.default-sidebar {
+    min-height: 100%; 
+}
+
+.footer {
+    background-color: #DDD;
+    border-top: 1px solid #CCC; 
+}
+.footer > .footer-content {
+    padding: 35px; 
+}
+
+.block {
+    white-space: pre-line;
+}

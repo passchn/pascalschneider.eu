@@ -1,0 +1,69 @@
+{
+    "tech": {
+        "title": "Web",
+        "title_long": "Webentwicklung",
+        "content": "Ich habe in der Vergangenheit hauptsächlich mit WordPress und eigenen Plugins/Webapps in PHP gearbeitet. So können Kunden am einfachsten eigene Inhalte erstellen oder Seiten aktuell halten. \n\n Mein größtes Projekt in den letzten zwei Jahren war tubalernen.de. Auf der eigenen eLearning-Plattform können Kunden Kurse kaufen und die Videolektionen, aber auch Notizen erstellen und veröffentlichen oder eigene Videos einreichen. Die Plattform ist in die Hauptseite (WordPress) durch eine API-Schnittstelle integriert. \n\n JavaScript rückt immer mehr ins Rampenlicht. Gerne verwende ich \"vanilla\" JS für kleinere Funktionen im Frontend. Diese Website ist mit dem VueJS-Framework Gridsome entstanden. Für ein anderes Projekt habe ich mit GraphJS und einem PHP-Backend gearbeitet. ",
+        "show_cards": true,
+        "cards": [
+            {
+                "title": "tubalernen.de",
+                "content": "Neben dem YouTube-Kanal und der Website ist die eLearning-Plattform konto.tubalernen.de das Herz der Online-Tubaschule. Kunden können hier Kurse kaufen und ansehen und haben Zugang zu weiteren Mitgliederinhalten. Über ein eigenes Tool können Kurse verwaltet werden. Kundendaten vom eigenen Server wie auch von externen APIs (PayPal, Mailchimp, Digistore24) werden in einem CRM gesammelt. ",
+                "image": "tubalernen.jpg",
+                "more": "",
+                "github": "",
+                "website": "https://tubalernen.de"
+            },
+            {
+                "title": "kultur-erlebnis.de",
+                "content": "Für das Event-Unternehmen aus dem Frankfurter Raum sollte es eine Website im warmen Rot sein, auf der Kunden aktuelle Veranstaltungen finden und buchen können. Mit WordPress können unkompliziert neue Events angelegt und kategorisiert werden. ",
+                "image": "kulturerlebnis.jpg",
+                "more": "",
+                "github": "",
+                "website": "https://kultur-erlebnis.de/"
+            },
+            {
+                "title": "pascalschneider.eu",
+                "content": "Das VueJS-Framework Gridsome verbindet die Möglichkeiten eines modernen Frontends mit statischen HTML-Seiten. So müssen die Daten nicht bei jedem Seitenaufruf neu aus der Datenbank oder von fremden Servern gesammelt werden. Das hat auch Vorteile in Bezug auf Suchmaschinenoptimierung. ",
+                "image": "gridsome.jpg",
+                "more": "",
+                "github": "https://github.com",
+                "website": ""
+            }
+        ]
+    },
+    "journalism": {
+        "title": "Medien",
+        "title_long": "Radio- und Fernsehjournalismus",
+        "content": "Error 404: Could not resolve host localhost:8080/api/",
+        "show_cards": false,
+        "cards": [
+            {
+                "title": "",
+                "content": "",
+                "image": "",
+                "more": "",
+                "github": "",
+                "website": ""
+            }
+        ]
+    },
+    "edu": {
+        "title": "Bildung",
+        "title_long": "Schule und Studium",
+        "content": "Nach dem Abitur in Fulda habe ich Soziologie und Politikwissenschaften in Frankfurt Studiert, um später einmal als Journalist zu arbeiten. Mich haben zu dieser Zeit vor allem Themen rund um Privatsphäre und Technologie interessiert – Edward Snowden war ein heißes Thema. \n\n In Frankfurt habe ich dann eine Vorliebe für die Systemtheorie von Niklas Luhmann sowie Wirtschafts- und Finanzsoziologie entwickelt – Wie entsteht Geld? Wie funktioniert die 'moderne Gesellschaft'? Welche 'Kapitalismen' gibt es? \n\n Weil ich schon einige Jahre zuvor Schwedisch gelernt hatte, hat es mich für einen Master nach Uppsala gezogen. Der Studiengang 'Sustainable Development' vereint sozialwissenschaftliche und naturwissenschaftliche Inhalte rund um Zukunftsfragen in Sachen Natur und Umwelt, Klimawandel, Ernährung und Energie.",
+        "show_cards": false,
+        "cards": [
+            {
+                "title": "",
+                "content": "",
+                "image": "",
+                "more": "",
+                "github": "",
+                "website": ""
+            }
+        ]
+    },
+    "etc": {
+        "sidebar_title": "Lebenslauf"
+    }
+}

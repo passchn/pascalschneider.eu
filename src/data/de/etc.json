@@ -1,0 +1,28 @@
+{
+    "err404": {
+        "title": "404",
+        "subtitle": "Oh nein! Diese Seite konnte leider nicht gefunden werden.",
+        "meta": "404 – Seite nicht gefunden"
+    },
+    "imprint": {
+        "title": "Impressum",
+        "subtitle": "Verantwortlich für diese Website ist",
+        "address": "Pascal Schneider \n Flogstavägen 65E \n 75272 Uppsala \n Schweden",
+        "disclaimer": "Für Inhalte auf Seiten Dritter, auf die ich verlinke, kann ich keine Verantwortung übernehmen."
+    },
+    "footer": {
+        "contact": "Kontakt",
+        "contactlink": "kontakt",
+        "imprint": "Impressum",
+        "imprintlink": "impressum",
+        "otherlang": "English Version",
+        "langlink": "https://en.pascalschneider.eu"
+    },
+    "nav": {
+        "start": "Startseite",
+        "cv": "CV / Portfolio",
+        "cvlink": "/cv",
+        "contact": "Kontakt",
+        "contactlink": "/kontakt"
+    }
+}
