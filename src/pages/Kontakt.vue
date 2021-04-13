@@ -61,7 +61,7 @@
             </b-form-group>
             <b-form-group
                 id="input-group-5"
-                label="Nachricht"
+                :label="data.form.message"
                 label-for="text"
             >
             <b-form-textarea

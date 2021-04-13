@@ -7,7 +7,7 @@
 
 module.exports = function (api) {
 
-  const lang = 'de'
+  const lang = 'en'
 
   // Index Page 
   api.loadSource(async actions => {
