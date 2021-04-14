@@ -8,49 +8,49 @@
     {
         "y": "2014",
         "cat": "journalism",
-        "txt": "Praktikum FFH",
-        "info": "Lokalreporter im Radio"
+        "txt": "Internship FFH",
+        "info": "Local Radio Journalist"
     },
     {
         "y": "2014 - 18",
         "cat": "edu",
-        "txt": "B.A. Soziologie/Politologie",
-        "info": "Goethe-Universität Frankfurt am Main"
+        "txt": "B.A. Sociology/Political Sciences",
+        "info": "Goethe-University Frankfurt am Main"
     },
     {
         "y": "2015 - 18",
         "cat": "journalism",
-        "txt": "ARD-aktuell Frankfurt",
-        "info": "Werksstudent / Praktikum"
+        "txt": "National TV news ARD-aktuell, Frankfurt",
+        "info": "Student job / Internship"
     },
     {
         "y": "2016 – 2018",
         "cat": "tech",
         "txt": "OPTANIUM GmbH Karben",
-        "info": "Werksstudent / Marketingassistent"
+        "info": "Student job / Marketing assistent"
     },
     {
         "y": "2018 - 21",
         "cat": "edu",
         "txt": "M.Sc. Sustainable Development",
-        "info": "Uppsala Universitet, Schweden"
+        "info": "Uppsala University, Schweden"
     },
     {
         "y": "seit 2018",
         "cat": "tech",
         "txt": "UMG Dirlos UG",
-        "info": "Entwickler / Marketing für die Plattform tubalernen.de"
+        "info": "Developer / Marketing for the eLearning plattform tubalernen.de"
     },
     {
         "y": "seit 2018",
         "cat": "tech",
         "txt": "OPTANIUM GmbH Karben",
-        "info": "Freier Mitabeiter / Wordpress-Entwickler"
+        "info": "Freelance Web-/WordPress developer"
     },
     {
         "y": "2019 – 20",
         "cat": "journalism",
-        "txt": "ARD-Korrespondenz Stockholm",
-        "info": "Praktikum und freie Mitarbeit als Producer"
+        "txt": "ARD German TV Stockholm",
+        "info": "Internship and freelance work as a producer"
     }
 ]

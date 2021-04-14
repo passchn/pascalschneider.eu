@@ -6,7 +6,7 @@
         "show_cards": true,
         "cards": [
             {
-                "title": "tubalernen.de",
+                "title": "Mitgliederbereich und eCommerce",
                 "content": "Neben dem YouTube-Kanal und der Website ist die eLearning-Plattform konto.tubalernen.de das Herz der Online-Tubaschule. Kunden können hier Kurse kaufen und ansehen und haben Zugang zu weiteren Mitgliederinhalten. Über ein eigenes Tool können Kurse verwaltet werden. Kundendaten vom eigenen Server wie auch von externen APIs (PayPal, Mailchimp, Digistore24) werden in einem CRM gesammelt. ",
                 "image": "tubalernen.jpg",
                 "more": "",
@@ -14,36 +14,68 @@
                 "website": "https://tubalernen.de"
             },
             {
-                "title": "kultur-erlebnis.de",
-                "content": "Für das Event-Unternehmen aus dem Frankfurter Raum sollte es eine Website im warmen Rot sein, auf der Kunden aktuelle Veranstaltungen finden und buchen können. Mit WordPress können unkompliziert neue Events angelegt und kategorisiert werden. ",
-                "image": "kulturerlebnis.jpg",
+                "title": "Recherche und Datenaufbereitung",
+                "content": "In Zeiten des Internets sind viele Daten verfügbar, man muss nur wissen wo. Oft sind die Informationen z.B. durch schlechte Formatierung schwer zugänglich. Ich habe z.B. Bestands- und Bewegungsdaten des Stromnetzbetreibers Osthessen-Netz ausgewertet. Die Daten waren auf knapp 800 PDF-Seiten gespeichert. Durch bessere Strukturierung und Speicherung in einer Datenbank können die Daten etwa mit dem JavaScript Tool GraphSJ ansprechend und dynamisch angezeigt werden. ",
+                "image": "oh-netz.jpg",
                 "more": "",
                 "github": "",
-                "website": "https://kultur-erlebnis.de/"
+                "website": "https://eeg.pascalschneider.eu/"
             },
             {
-                "title": "pascalschneider.eu",
+                "title": "VueJS und Gridsome",
                 "content": "Das VueJS-Framework Gridsome verbindet die Möglichkeiten eines modernen Frontends mit statischen HTML-Seiten. So müssen die Daten nicht bei jedem Seitenaufruf neu aus der Datenbank oder von fremden Servern gesammelt werden. Das hat auch Vorteile in Bezug auf Suchmaschinenoptimierung. ",
                 "image": "gridsome.jpg",
                 "more": "",
                 "github": "https://github.com",
                 "website": ""
+            },
+            {
+                "title": "Event-Katalog mit Buchungsfunktion",
+                "content": "Für ein Event-Unternehmen aus dem Frankfurter Raum sollte es eine Website im warmen Rot sein, auf der Kunden aktuelle Veranstaltungen finden und buchen können. Mit WordPress können unkompliziert neue Events angelegt und kategorisiert werden. ",
+                "image": "kulturerlebnis.jpg",
+                "more": "",
+                "github": "",
+                "website": "https://kultur-erlebnis.de/"
             }
         ]
     },
     "journalism": {
         "title": "Medien",
         "title_long": "Radio- und Fernsehjournalismus",
-        "content": "Error 404: Could not resolve host localhost:8080/api/",
-        "show_cards": false,
+        "content": "Ich habe als Journalist für regionale, nationale und internationale Medien in Radio und Fernsehen gearbeitet, Webvideos für Soziale Medien erstellt und Artikel, etwa für tagesschau.de, geschrieben. \n\n Für mein eigenes Medienproduktionsunternehmen umg dirlos filme und schneide ich regelmäßig und arbeite am liebsten mit dem Schnittprogramm DaVinci Resolve und der Affinity-Suite für graphische Inhalte. \n ",
+        "show_cards": true,
         "cards": [
             {
-                "title": "",
-                "content": "",
+                "title": "Interview für tubalernen.de",
+                "content": "Für die Tuba-Lernplattform tubalernen.de produziere ich regelmäßig Videos, etwa für den YouTube-Kanal, aber auch Videokurse für die eigene Lernplattform. Hier als Beispiel ein Interview mit dem Komponisten Yannik Helm. ",
+                "image": "yannik-interview.jpg",
+                "more": "",
+                "github": "",
+                "website": "https://www.youtube.com/watch?v=9uiQE4Nni14"
+            },
+            {
+                "title": "Ein Staubsauger für die Treibhausgase",
+                "content": "Welche technischen Möglichkeiten gibt es, um den Klimawandel einzudämmen? Mit Carbon Capture and Storage (CCS) versuchen immer mehr Forscher und Unternehmen, CO2 aus der Luft oder aus Abgasen einzufangen und zu speichern, damit es nicht in die Atmosphäre gelangt. Für tagesschau.de habe ich über ein Projekt auf Island geschrieben. ",
                 "image": "",
                 "more": "",
                 "github": "",
-                "website": ""
+                "website": "https://web.archive.org/web/20191228041808/https://www.tagesschau.de/ausland/co2-island-101.html"
+            },
+            {
+                "title": "ARD Nachtmagazin: Jugendkongress der ZWST",
+                "content": "Auf dem jährlichen Jugendkongress treffen sich junge Juden aus ganz Deutschland. Wir haben Benny im Alltag und auf dem Kongress begleitet, auf dem auch die Holocaustüberlebende Trude Simonsohn zu Gast war. ",
+                "image": "zwst.jpg",
+                "more": "",
+                "github": "",
+                "website": "https://www.youtube.com/watch?v=Z9b6PpEd900"
+            },
+            {
+                "title": "Keine Masken in Uppsalas Bussen",
+                "content": "Im schwedischen Uppsala gab es in den heißen Corona-Zeiten viel Gedränge in den Bussen, etwa nach Schulschluss. Trotzdem will das Busunternehmen keine generellen Empfehlungen zum Tragen einer Maske aussprechen. Was denken die Menschen in Uppsala dazu? Ein Webvideo für das ARD Studio Stockholm auf Twitter. ",
+                "image": "",
+                "more": "",
+                "github": "",
+                "website": "https://www.youtube.com/watch?v=u88uIHlEVrg"
             }
         ]
     },

@@ -1,10 +1,9 @@
 <?php
 
+include_once '../settings.php';
+
 $json = file_get_contents('php://input');
 $data = json_decode($json, true);
-$settings = json_decode(file_get_contents('../settings.json'), true);
-$email_webmaster = $settings['mail']['webmaster'];
-$email_from = $settings['mail']['from'];
 
 if (isset($data['email'])) {
     $name = $data['name'];
@@ -13,12 +12,12 @@ if (isset($data['email'])) {
     $company = $data['company'];
     $text = $data['text'];
 
-    $header = 'From: '.$email_from . "\r\n" .
+    $header = 'From: '.FROM_EMAIL . "\r\n" .
     'Reply-To: '.$email . "\r\n" .
     'X-Mailer: PHP/' . phpversion();
 
-    $email = mail(
-        $email_webmaster,
+    $email_sent = mail(
+        WEBMASTER,
         'Kontaktformular | '.$name,
         "Von $name, E-Mail: $email \r\n
         Telefon: $phone, Unternehmen: $company
@@ -31,7 +30,7 @@ if (isset($data['email'])) {
 
     sleep(1);
 
-    if ($email) {
+    if ($email_sent) {
         http_response_code(200);
         echo json_encode([
             'ok' => true,

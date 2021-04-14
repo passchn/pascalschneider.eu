@@ -47,6 +47,7 @@
                     <p class="block">{{ data.journalism.content }}</p>
                     <div
                         v-if="data.journalism.show_cards"
+                        class="mt-5"
                     >
                         <div
                             v-for="card in data.journalism.cards"
@@ -75,6 +76,7 @@
                     <p class="block">{{ data.edu.content }}</p>
                     <div
                         v-if="data.edu.show_cards"
+                        class="mt-5"
                     >
                         <div
                             v-for="card in data.edu.cards"

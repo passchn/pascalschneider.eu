@@ -73,8 +73,7 @@ export default {
     },
     async mounted() {
       try { 
-        //console.log(123)
-        let response = await fetch('/api/analytics/analytics.php')
+        let response = await fetch('/analytics/analytics.php')
         let data = await response.json()
         //console.log(data) 
       } catch (error) {
