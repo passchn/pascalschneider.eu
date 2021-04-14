@@ -16,7 +16,7 @@
     "form-messages": {
         "your-data": "Deine Daten",
         "success": "Vielen Dank! Die E-Mail wurde versendet. ",
-        "error": "Es gab einen Fehler beim Versenden der Daten. Bitte versuche es erneut oder sende eine E-Mail an post (at) pascalschneider (.) eu. \n\n Fehlermeldung: "
+        "error": "Es gab einen Fehler beim Versenden der Daten. Bitte versuche es erneut oder sende eine E-Mail an post (at) pascalschneider (.) eu. \n\n"
     },
     "settings": {
         "randomuser-nat": "de,dk,nl"

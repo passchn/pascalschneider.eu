@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-include_once '../settings.php';
+include '../settings.php';
 
 $url = $_SERVER['HTTP_REFERER'];
 $ip = md5($_SERVER['REMOTE_ADDR'].'lwlahoh3wazi');

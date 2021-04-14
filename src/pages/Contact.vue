@@ -193,13 +193,11 @@ export default {
                     this.form.success = true;
                     this.form.message = this.data.form_messages.success
                     this.form.phpdata = result.data
-                    console.log(result)
                 } else {
                     this.form.show = true
                     this.form.success = false
                     this.form.message = this.data.form_messages.error
-                    this.form.active = true 
-                    console.log(result)
+                    this.form.active = true
                 }
             } catch (error) {
                 console.log(error)

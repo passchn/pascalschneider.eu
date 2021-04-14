@@ -1,11 +1,13 @@
 <?php
 
+// Rename the file to "settings.php"
+
 // Mail 
-const WEBMASTER = 'website@pascalschneider.eu';
-const FROM_EMAIL = 'website@pascalschneider.eu';
+const WEBMASTER = 'mail@example.com';
+const FROM_EMAIL = 'mail@example.com';
 
 //Analytict
-const DB_SERVER = 'pascalschneider.eu.mysql';
-const DB_USER = 'pascalschneider_eusngrekvkjjkvsbbysd979gzgu7tukfkjhgjhgjfztdt';
-const DB_PASSWD = 'lkj87a99hqjh43jhJKHEC';
-const DB_NAME = 'pascalschneider_eusngrekvkjjkvsbbysd979gzgu7tukfkjhgjhgjfztdt';
+const DB_SERVER = '127.0.0.1';
+const DB_USER = 'my_user';
+const DB_PASSWD = '123456';
+const DB_NAME = 'my_db';

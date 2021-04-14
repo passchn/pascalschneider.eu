@@ -16,7 +16,7 @@
     "form-messages": {
         "your-data": "Your data: ",
         "success": "Thank you! Your Email has been sent to me. ",
-        "error": "There has been an error while sending the data. Please try again or send an email to post (at) pascalschneider (.) eu. \n\n Error message: "
+        "error": "There has been an error while sending the data. Please try again or send an email to post (at) pascalschneider (.) eu. \n\n"
     },
     "settings": {
         "randomuser-nat": "de,dk,gb,nz,us,no"
